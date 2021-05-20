@@ -1,0 +1,6 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  height: calc(100vh / 6);
+  line-height: calc(100vh / 6);
+}
